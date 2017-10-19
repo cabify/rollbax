@@ -1,5 +1,7 @@
 # Changelog
 
+* Fixing `draft` override `ocurrence_data` elixir-addicts/rollbax/pull/71
+
 ## v0.8.2
 
 * Made sure that JSON encoding never cause `Rollbax.Client` crashing.
