@@ -1,6 +1,7 @@
 # Changelog
 
-* Fixing `draft` override `ocurrence_data` elixir-addicts/rollbax/pull/71
+* Adding support for all Rollbar's levels and raw messages elixir-addicts/rollbax#73
+* Fixing `draft` override `ocurrence_data` elixir-addicts/rollbax#71
 
 ## v0.8.2
 
