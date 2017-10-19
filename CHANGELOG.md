@@ -1,5 +1,6 @@
 # Changelog
 
+* Test against OTP 20.0 and elixir 1.5.2
 * Adding support for all Rollbar's levels and raw messages elixir-addicts/rollbax#73
 * Fixing `draft` override `ocurrence_data` elixir-addicts/rollbax#71
 
